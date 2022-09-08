@@ -1,7 +1,7 @@
 {
     "name": "SpaceBlack",
     "description": "Dark Discord ",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
        {
           "name": "Renae",
@@ -31,7 +31,7 @@
        ],
        "INTERACTIVE_NORMAL": [
           "#C8C8C8",
-          "#4f5660"
+          "#e6eaf0"
        ],
        "INTERACTIVE_HOVER": [
           "#DCDDDE",
@@ -143,7 +143,7 @@
        "PRIMARY_DARK_700": "#090909",
        "PRIMARY_DARK_800": "#090909",
        "PRIMARY_DARK_900": "#090909",
-       "PRIMARY_WHITE": "#edebeb"
+       "WHITE": "#FFFF00"
     },
     "unsafe_colors": {
        "CHAT_GREY": "#111111"
