@@ -1,6 +1,6 @@
 {
     "name": "SpaceBlack",
-    "description": "Dark Discord ",
+    "description": "Dark/White Discord ",
     "version": "1.0.5",
     "authors": [
        {
@@ -23,23 +23,23 @@
        ],
        "TEXT_NORMAL": [
           "#FBFBFB",
-          "#2e3338"
+          "#000000"
        ],
        "TEXT_MUTED": [
           "#B6B6B6",
-          "#747f8d"
+          "#999999"
        ],
        "INTERACTIVE_NORMAL": [
           "#C8C8C8",
-          "#e6eaf0"
+          "#999999"
        ],
        "INTERACTIVE_HOVER": [
           "#DCDDDE",
-          "#2e3338"
+          "#999999"
        ],
        "INTERACTIVE_ACTIVE": [
           "#FFFFFF",
-          "#FFFFFF"
+          "#999999"
        ],
        "INTERACTIVE_MUTED": [
           "#747474",
@@ -51,15 +51,15 @@
        ],
        "BACKGROUND_SECONDARY": [
           "#111111",
-          "#f2f3f5"
+          "#e6eaf0"
        ],
        "BACKGROUND_SECONDARY_ALT": [
           "#0e0e0e",
-          "#ebedef"
+          "#e6eaf0"
        ],
        "BACKGROUND_TERTIARY": [
           "#0E0E0E",
-          "#e3e5e8"
+          "#e6eaf0"
        ],
        "BACKGROUND_ACCENT": [
           "#292929",
