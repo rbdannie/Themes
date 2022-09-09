@@ -1,7 +1,7 @@
 {
     "name": "SpaceBlack",
     "description": "Dark Discord ",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "authors": [
        {
           "name": "Renae",
@@ -43,11 +43,11 @@
        ],
        "INTERACTIVE_MUTED": [
           "#747474",
-          "#c7ccd1"
+          "#585858"
        ],
        "BACKGROUND_PRIMARY": [
           "#141414",
-          "#ffffff"
+          "#e6eaf0"
        ],
        "BACKGROUND_SECONDARY": [
           "#111111",
