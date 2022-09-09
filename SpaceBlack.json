@@ -1,7 +1,7 @@
 {
     "name": "SpaceBlack",
     "description": "Dark Discord ",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "authors": [
        {
           "name": "Renae",
@@ -67,15 +67,15 @@
        ],
        "BACKGROUND_FLOATING": [
           "#090909",
-          "#FFFFFF"
+          "#e3e5e8"
        ],
        "BACKGROUND_MOBILE_PRIMARY": [
           "#141414",
-          "#f8f9f9"
+          "#e6eaf0"
        ],
        "BACKGROUND_MOBILE_SECONDARY": [
           "#111111",
-          "#ffffff"
+          "e6eaf0"
        ],
        "BACKGROUND_NESTED_FLOATING": [
           "#111111",
@@ -142,8 +142,7 @@
        "PRIMARY_DARK_630": "#1F1F1F",
        "PRIMARY_DARK_700": "#090909",
        "PRIMARY_DARK_800": "#090909",
-       "PRIMARY_DARK_900": "#090909",
-       "WHITE": "#FFFFFF"
+       "PRIMARY_DARK_900": "#090909"
     },
     "unsafe_colors": {
        "CHAT_GREY": "#111111"
